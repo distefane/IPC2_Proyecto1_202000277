@@ -1,0 +1,5 @@
+digraph structs {
+
+    n1 [label="Maze10|Felix7|FelixP|Felix1|Felix5|Felix2|Felix3|FelixPP|Felix8|Felix4" shape=record];
+
+}

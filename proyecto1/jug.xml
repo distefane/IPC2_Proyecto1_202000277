@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix6</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>10</movimientos>
+        <tamaño>5</tamaño>
+        <figura>Arbol de Navidad</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix9</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>15</movimientos>
+        <tamaño>25</tamaño>
+        <figura>Regalo</figura>
+        <puzzle>
+            <celda f="0" c="0" />
+            <celda f="1" c="1" />
+            <celda f="2" c="2" />
+            <celda f="3" c="3" />
+            <celda f="4" c="4" />
+            <celda f="5" c="5" />
+            <celda f="6" c="6" />
+            <celda f="7" c="7" />
+            <celda f="8" c="8" />
+            <celda f="9" c="9" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Maze10</nombre>
+            <edad>21</edad>
+        </datospersonales>
+        <movimientos>36</movimientos>
+        <tamaño>20</tamaño>
+        <figura>Regalo</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix7</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>10</movimientos>
+        <tamaño>25</tamaño>
+        <figura>Arbol de Navidad</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>FelixP</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>10</movimientos>
+        <tamaño>5</tamaño>
+        <figura>Arbol de Navidad</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix1</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>5</movimientos>
+        <tamaño>30</tamaño>
+        <figura>Estrella de Belen</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix5</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>5</movimientos>
+        <tamaño>10</tamaño>
+        <figura>Arbol de Navidad</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix2</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>5</movimientos>
+        <tamaño>25</tamaño>
+        <figura>Estrella de Belen</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix3</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>5</movimientos>
+        <tamaño>20</tamaño>
+        <figura>Estrella de Belen</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>FelixPP</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>5</movimientos>
+        <tamaño>5</tamaño>
+        <figura>Arbol de Navidad</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix8</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>10</movimientos>
+        <tamaño>25</tamaño>
+        <figura>Regalo de Navidad</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+    <jugador>
+        <datospersonales>
+            <nombre>Felix4</nombre>
+            <edad>20</edad>
+        </datospersonales>
+        <movimientos>5</movimientos>
+        <tamaño>15</tamaño>
+        <figura>Estrella de Belen</figura>
+        <puzzle>
+            <celda f="1" c="0" />
+            <celda f="1" c="4" />
+            <celda f="1" c="3" />
+            <celda f="2" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="1" />
+            <celda f="4" c="2" />
+            <celda f="4" c="3" />
+            <celda f="4" c="4" />
+            <celda f="0" c="2" />
+        </puzzle>
+        <solucion>
+            <celda f="1" c="2" />
+            <celda f="2" c="1" />
+            <celda f="2" c="2" />
+            <celda f="2" c="3" />
+            <celda f="3" c="0" />
+            <celda f="3" c="1" />
+            <celda f="3" c="2" />
+            <celda f="3" c="3" />
+            <celda f="3" c="4" />
+            <celda f="4" c="2" />
+        </solucion>
+    </jugador>
+</jugadores>
